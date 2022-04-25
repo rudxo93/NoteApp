@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">NoteApp</string>
+    <!-- activity_main -->
+    <string name="note_mainTitle">모든 노트</string>
+    <!-- activity_edit_note -->
+    <string name="note_edit_hintTitle">제목</string>
+    <string name="note_edit_hintContent">내용을 입력해주세요</string>
+    <string name="note_edit_btn_save">저장하기</string>
 </resources>
